@@ -1,11 +1,5 @@
 #!/bin/sh
+MASTER
+MASTER
+MASTER
 
-不可以刪的文字
-
-
-Tim增加的
-master增加的文字
-
-
-Wei增加的
-Wei分期commit前
