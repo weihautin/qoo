@@ -1,5 +1,6 @@
 #!/bin/sh
-MASTER
-MASTER
-MASTER
+WEI
+WEI
+WEI
+
 
