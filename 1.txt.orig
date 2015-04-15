@@ -1,12 +1,13 @@
 #!/bin/sh
-
-不可以刪的文字
-
-
 <<<<<<< HEAD
-Tim增加的
+MASTER
+MASTER
+MASTER
+MASTER
 =======
+WEI
+WEI
+WEI
 
+>>>>>>> Wei
 
-master增加的文字
->>>>>>> master下的1.txt增加文字

@@ -1,6 +1,11 @@
 #!/bin/sh
+
 MASTER
 MASTER
 MASTER
 MASTER
+WEI
+WEI
+WEI
+
 
